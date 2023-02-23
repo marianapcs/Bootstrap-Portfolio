@@ -1,3 +1,50 @@
-.btn  {
-    align-items: center;
+.navbar {
+    background-color:#abd8ba;
 }
+
+.nav-item a {
+    color: rgb(16, 15, 15);
+}
+
+.nav-item a:hover {
+    color: rgb(179, 119, 154);
+}
+
+.circle {
+
+    border-radius: 50%!important;
+    max-width: 100%;
+    display: block;
+    vertical-align: middle;
+}
+
+
+#psection {
+    text-align: justify;
+}
+
+#lisbon h4 {
+ background-color: rgba(147, 182, 228, 0.583);
+ display: inline;
+}
+
+#barcelona h4 {
+    background-color: rgba(147, 182, 228, 0.583);
+    display: inline;
+   }
+
+
+#footer a:hover {
+    color: rgb(179, 119, 154);
+}
+
+
+.card-deck {
+   media-breakpoint-only(lg) {
+      column-count: 4;
+    }
+ media-breakpoint-only(xl) {
+      column-count: 5;
+    }
+  }
+
