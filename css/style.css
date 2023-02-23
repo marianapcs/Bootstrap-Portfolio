@@ -39,12 +39,3 @@
 }
 
 
-.card-deck {
-   media-breakpoint-only(lg) {
-      column-count: 4;
-    }
- media-breakpoint-only(xl) {
-      column-count: 5;
-    }
-  }
-
